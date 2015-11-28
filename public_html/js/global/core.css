@@ -1,0 +1,36 @@
+@-webkit-keyframes repaint {from { padding: 0; } to { padding: 0; }}
+body { -webkit-animation: repaint infinite 1s; }
+
+html {
+    font-size: 18px;
+}
+
+body {
+    background-color: #ccc;
+    line-height: 1.4;
+}
+
+main {
+    font-family: 'AvertaStd-Light';
+    background-color: white;
+    margin: 0 2rem;
+    min-height: 100vh;
+    text-align: center;
+}
+
+main > div {
+    padding: 0 2rem;
+}
+
+p {
+    margin-bottom: 1rem;
+}
+
+a, a:visited {
+    color: #00bd98;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

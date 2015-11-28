@@ -1,0 +1,4 @@
+node_modules/
+jspm_packages/
+public_html/fonts/
+public_html/js/dist

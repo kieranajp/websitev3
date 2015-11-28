@@ -1,0 +1,17 @@
+.section {
+    padding: 3rem;
+}
+
+.title {
+    text-transform: uppercase;
+    font-size: 0.9rem;
+}
+
+.title::after {
+    content: '';
+    display: block;
+    width: 50%;
+    margin: 1rem auto;
+    border-top: 1px solid;
+    opacity: 0.2;
+}
