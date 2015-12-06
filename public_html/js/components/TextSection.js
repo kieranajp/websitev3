@@ -12,7 +12,7 @@ export default class TextSection extends React.Component {
                 </p>
 
                 <p>
-                    While I spend most of my time in back-end development, I try to stay on top of recent developments in front-end stuff as well. With this site, I&rsquo;ve been experimenting with React, PostCSS and CSS Modules, JSPM, and System.JS. Check out its development on <a href="https://github.com/kieranajp/websitev3">Github</a>.
+                    While I spend most of my time in back-end development, I try to stay on top of recent developments in front-end stuff as well. With this site, I&rsquo;ve been experimenting with React, PostCSS and CSS Modules, JSPM, and System.JS. Check out its development on <a target="_blank" href="https://github.com/kieranajp/websitev3">Github</a>.
                 </p>
             </section>
         );
